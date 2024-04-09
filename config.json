@@ -1,0 +1,9 @@
+{
+	"site_config": {
+		"host": "0.0.0.0",
+		"port": 1338,
+		"debug": false
+	},
+	"url_prefix": "",
+	"openai_key": "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"
+}
